@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Hira-Iftikhar-123
-- 👀 I’m interested in Web development/ ML
-- 🌱 I’m currently doing BS in Computer Science from FAST-NUCES
-- 💞️ I’m looking to collaborate on skills for Web development ,ML, DS and become a professional for future.
-- 📫 How to reach me follow my GitHub,Stack overflow account and LinkedIn profile.
+- 👋 Hi, I’m @Hira-Iftikhar
+- 👀 I'm a motivated and enthusiastic learner passionate about Web Development, Flutter for App Dev, and AI.
+- 🌱 I’m currently doing a Bachelor's in Computer Science from FAST-NUCES
+- 💡 Always eager to explore new technologies and real-world applications of Machine Learning and Data Science.
+- 💞️ Looking to collaborate on projects that help me grow and sharpen my skills in new technologies, including Web Development, App dev, and AI.
+- 📫 How to reach me: follow my GitHub, Stack Overflow account, and LinkedIn profile.
+
+Let’s connect, build, and grow together!
   
 Here is my GitHub account link: https://github.com/Hira-Iftikhar-123
 
-Here is my stackoverflow account link: https://stackoverflow.com/users/22018430/hira-iftikhar
+Here is my StackOverflow account link: https://stackoverflow.com/users/22018430/hira-iftikhar
 
 Here is my LinkedIn profile link: https://www.linkedin.com/in/hira-iftikhar-ab387124b/
 
