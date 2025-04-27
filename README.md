@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hira-Iftikhar
+- 👋 Hi, I’m Hira Iftikhar
 - 👀 I'm a motivated and enthusiastic learner passionate about Web Development, Flutter for App Dev, and AI.
-- 🌱 I’m currently doing a Bachelor's in Computer Science from FAST-NUCES
+- 🌱 I’m currently doing a Bachelor's in Computer Science from FAST-NUCES.
 - 💡 Always eager to explore new technologies and real-world applications of Machine Learning and Data Science.
 - 💞️ Looking to collaborate on projects that help me grow and sharpen my skills in new technologies, including Web Development, App dev, and AI.
 - 📫 How to reach me: follow my GitHub, Stack Overflow account, and LinkedIn profile.
